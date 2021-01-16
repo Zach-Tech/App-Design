@@ -7,4 +7,4 @@
 * Windows Forms. 
 
 ##### The Windows Forms Application was coded, and interactive. The purpose of this repository is to demonstrate my flexibility in frontend design and backend code-work.
-##### These screenshots are mind and the application code behind it is my own creation, resources to create said applicate were found via Googling, watching Youtube tutorials, and utilizing preexisting libraries such as FontAwesome.
+##### These screenshots are mine and the application code behind it is my own creation, resources to create said applicate were found via Googling, watching Youtube tutorials, and utilizing preexisting libraries such as FontAwesome.
