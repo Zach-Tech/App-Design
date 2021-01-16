@@ -12,4 +12,4 @@
 ##### These screenshots are mine and the application code behind it is my own creation, resources to create said applicate were found via Googling, watching Youtube tutorials, and utilizing preexisting libraries such as FontAwesome.
 
 
-[#### Associated Project Repo] (https://github.com/Zach-Tech/ModernWebPageUI)
+[####Associated Project Repo](https://github.com/Zach-Tech/ModernWebPageUI)
